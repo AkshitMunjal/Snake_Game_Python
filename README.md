@@ -98,5 +98,9 @@ Grows the snake when it eats food.
 
 👈Left: Move the snake to the left.
 
-👉Right: Move the snake to the right.
+👉Right: Move the snake to the right. 
+
+
+![image alt](https://github.com/AkshitMunjal/Snake_Game_Python/blob/a3f6dbd98724d5439ab2dc6ce5019c2caa4d464a/Snake_Game.png)
+
 
